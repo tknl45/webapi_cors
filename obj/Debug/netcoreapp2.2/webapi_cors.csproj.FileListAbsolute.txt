@@ -1,0 +1,14 @@
+C:\Users\five2017\webapi_cors\bin\Debug\netcoreapp2.2\webapi_cors.deps.json
+C:\Users\five2017\webapi_cors\bin\Debug\netcoreapp2.2\webapi_cors.runtimeconfig.json
+C:\Users\five2017\webapi_cors\bin\Debug\netcoreapp2.2\webapi_cors.runtimeconfig.dev.json
+C:\Users\five2017\webapi_cors\bin\Debug\netcoreapp2.2\webapi_cors.dll
+C:\Users\five2017\webapi_cors\bin\Debug\netcoreapp2.2\webapi_cors.pdb
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.csprojAssemblyReference.cache
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.csproj.CoreCompileInputs.cache
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.RazorAssemblyInfo.cache
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.RazorAssemblyInfo.cs
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.AssemblyInfoInputs.cache
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.AssemblyInfo.cs
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.RazorTargetAssemblyInfo.cache
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.dll
+C:\Users\five2017\webapi_cors\obj\Debug\netcoreapp2.2\webapi_cors.pdb
